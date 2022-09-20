@@ -1,0 +1,127 @@
+@import url('http://fonts.cdnfonts.com/css/helvetica-neue-9');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+body{
+    font-family: 'Helvetica Neue', sans-serif;
+    font-family: 'Helvetica 25 UltraLight', sans-serif;
+    font-family: 'Helvetica 35 Thin', sans-serif;
+    font-family: 'Helvetica 45 Light', sans-serif;
+    font-family: 'Helvetica 55 Roman', sans-serif;
+    font-family: 'Helvetica 65 Medium', sans-serif;
+    color: white;
+    background-color: black;
+}
+.netflix-logo{
+    margin: 40px 0 0 50px;
+}
+.logo-button{
+        margin-left: 80%;
+        padding: 10px;
+        margin-top: -4%;
+        background-color: transparent;
+        
+}
+.sign-in{
+    border: black 1px solid;
+    padding: 10px 25px; 
+    margin-left: 20%;
+    background-color: #db202c;
+    border-radius: 7px;
+    margin-top: -10px;
+}
+/*section1*/
+.section-1{
+            text-align: center;
+            margin: 19% 0 10%;;
+            line-height: 1.5;
+}
+.section-1-text1{
+    font-size: 400%;
+    text-decoration: solid;
+    line-height: 1;
+}
+.section-1-text2{
+    font-size: 150%;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+.email-id{
+    text-align: center;
+    margin-top: -7%;
+    margin-bottom: 10%;
+}
+.email-box{
+        width: 40%;
+        height: 80px;
+        margin-left: 0%;
+        font-size: 180%;
+        color: black;
+}
+.email-button{
+    width: 16%;
+    height: 80px;
+    border: 29px solid #db202c;
+    background-color: #db202c;
+    font-size: 141%;
+    color: white;
+    }
+.hr-1{
+color: #222222;
+width: 100%;
+border-width: 10px;
+border-style: inset none none;
+}
+.background-img{
+    background: rgba(0,0,0,0.7) url("./Images/backgroud1.jpg");
+    background-repeat: no-r0epeat;
+    height: 1000px;
+   width: 100%;
+   background-size: cover;
+   background-blend-mode: darken;
+    }
+
+/*section2*/
+.section2{
+    margin: 5% 0 ;
+}
+.section2-text1{
+   margin:  4% 0 25px 15%;
+font-size: xxx-large;
+}
+.section2-text2{
+    margin: 1% 0 0 15%;
+    font-size: 26px;
+}
+.tv{
+    float: right;
+}
+.section2-img{
+        margin: -340px 50px 29px -626px;
+        width: 500px;
+}
+.section2-video{
+    margin: -309px -434px 123px -482px;
+    width: 355px;
+}
+/*
+section 3 starts form here
+*/
+.sec3-img{
+    width: 35%;
+    margin: -16px 0 0 140px;
+}
+.sec3-text{
+    float: right;
+    margin: 110px 230px 0 0;
+    line-height: 1.5;
+}
+.sec3-text1{
+    font-size: 50px;
+}
+.sec3-text2{
+    font-size: 25px;
+}

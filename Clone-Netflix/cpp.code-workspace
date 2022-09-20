@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../cpp"
+		},
+		{
+			"path": "../../VS CODE FILES"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VS CODE FILES"
+	}
+}
